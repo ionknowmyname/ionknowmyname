@@ -18,7 +18,10 @@ I am currently accepting new projects. I am also open to relocating and working 
 
 [![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=F7DF1E)](https://www.javascript.com/)
 
+[![](https://img.shields.io/badge/Code-Node-informational?style=flat&logo=Node&logoColor=white&color=68A063)](https://nodejs.org/en/)
+[![](https://img.shields.io/badge/Code-Php-informational?style=flat&logo=Php&logoColor=white&color=b0b3d6)](https://www.php.net/)
 [![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=React&logoColor=white&color=61DAFB)](https://reactjs.org/)
+  
 
 
 
@@ -32,12 +35,11 @@ I am currently accepting new projects. I am also open to relocating and working 
 </p> 
 
 
-![Olanetsoft's github stats](https://github-readme-stats.vercel.app/api?username=ionknowmyname&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ionknowmyname&layout=compact&theme=tokyonight)](https://github.com/ionknowmyname)
 
-![trophy](https://github-profile-trophy.vercel.app/?username=ionknowmyname)
+<!-- ![Olanetsoft's github stats](https://github-readme-stats.vercel.app/api?username=ionknowmyname&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true) -->
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ionknowmyname&layout=compact&theme=tokyonight)](https://github.com/ionknowmyname) -->
 
+<!-- ![trophy](https://github-profile-trophy.vercel.app/?username=ionknowmyname)
+ -->
 
-
-
-![Profile views](https://gpvc.arturio.dev/ionknowmyname)  
+<!-- ![Profile views](https://gpvc.arturio.dev/ionknowmyname)   -->
