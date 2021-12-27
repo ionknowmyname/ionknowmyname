@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm FAITHFUL
 
 ###  About Me (He/Him)
-I'm a full stack web developer 👩‍💻️ from Lagos, Nigeria. 
+I'm a full stack web developer 👩‍💻️ from Lagos, Nigeria. I create web apps and utilities using the LAMP-stack and MERN-stack. I'm enthusiastic about taking on new challenges and always eager to try new coding techniques. Reach out to me if you have something new you'd like me to try.
 
 I am currently accepting new projects. I am also open to relocating and working remotely.
 
@@ -20,7 +20,15 @@ I am currently accepting new projects. I am also open to relocating and working 
 
 [![](https://img.shields.io/badge/Code-Node-informational?style=flat&logo=Node&logoColor=white&color=68A063)](https://nodejs.org/en/)
 [![](https://img.shields.io/badge/Code-Php-informational?style=flat&logo=Php&logoColor=white&color=b0b3d6)](https://www.php.net/)
+[![](https://img.shields.io/badge/Code-Laravel-informational?style=flat&logo=Laravel&logoColor=white&color=F05340)](https://laravel.com/)
+[![](https://img.shields.io/badge/Code-MySql-informational?style=flat&logo=mysql&logoColor=white&color=F29111)](https://www.mysql.com/)
+[![](https://img.shields.io/badge/Code-Apache-informational?style=flat&logo=apache&logoColor=white&color=A22160)](https://www.apache.org/)
+[![](https://img.shields.io/badge/Code-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=3FA037)](https://mongodb.com/)
 [![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=React&logoColor=white&color=61DAFB)](https://reactjs.org/)
+[![](https://img.shields.io/badge/Code-Vue-informational?style=flat&logo=Vue&logoColor=white&color=41B883)](https://vuejs.org/)
+[![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=white&color=FFD43B)](https://www.python.org/)
+  
+  
   
 
 
