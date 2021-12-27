@@ -32,12 +32,12 @@ I am currently accepting new projects. I am also open to relocating and working 
 </p> 
 
 
-![Olanetsoft's github stats](https://github-readme-stats.vercel.app/api?username=olanetsoft&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=olanetsoft&layout=compact&theme=tokyonight)](https://github.com/Olanetsoft)
+![Olanetsoft's github stats](https://github-readme-stats.vercel.app/api?username=ionknowmyname&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ionknowmyname&layout=compact&theme=tokyonight)](https://github.com/ionknowmyname)
 
-![trophy](https://github-profile-trophy.vercel.app/?username=olanetsoft)
+![trophy](https://github-profile-trophy.vercel.app/?username=ionknowmyname)
 
 
-Started counting on <b>05/07/2021</b>
 
-![Profile views](https://gpvc.arturio.dev/olanetsoft)  
+
+![Profile views](https://gpvc.arturio.dev/ionknowmyname)  
