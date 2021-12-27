@@ -29,6 +29,6 @@ I am currently accepting new projects. I am also open to relocating and working 
 
 ### 📈 My stats
 
-<img align="center" src='https://github-readme-stats.vercel.app/api/top-langs/?username=Audrey-Ella-xo&hide=html&layout=compact'>
-<img align="center" src='https://github-readme-stats.vercel.app/api?username=Audrey-Ella-xo&hide=issues,contribs'>
+<img align="center" src='https://github-readme-stats.vercel.app/api/top-langs/?username=ionknowmyname&hide=html&layout=compact'>
+<img align="center" src='https://github-readme-stats.vercel.app/api?username=ionknowmyname&hide=issues,contribs'>
 </p> 
