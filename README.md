@@ -17,13 +17,11 @@ I am currently accepting new projects. I am also open to relocating and working 
 [![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=Linux&logoColor=white&color=FCC624)](https://www.linux.org/pages/download/)
 
 [![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=F7DF1E)](https://www.javascript.com/)
-[![](https://img.shields.io/badge/Code-Ruby-informational?style=flat&logo=Ruby&logoColor=white&color=CC342D)](https://www.ruby-lang.org/es/)
-[![](https://img.shields.io/badge/Code-Ruby%20on%20Rails-informational?style=flat&logo=Ruby-on-rails&logoColor=white&color=CC0000)](https://rubyonrails.org/)
-[![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=React&logoColor=white&color=61DAFB)](https://reactjs.org/)
-[![](https://img.shields.io/badge/Code-Redux-informational?style=flat&logo=Redux&logoColor=white&color=764ABC)](https://redux.js.org/)
 
-[![](https://img.shields.io/badge/Shell-Oh%20My%20Zsh-informational?style=flat&logo=gnu-bash&logoColor=white&color=75ffac)](https://ohmyz.sh/)
-[![](https://img.shields.io/badge/Tools-Heroku-informational?style=flat&logo=heroku&logoColor=white&color=430098)](https://dashboard.heroku.com/)
+[![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=React&logoColor=white&color=61DAFB)](https://reactjs.org/)
+
+
+
 [![](https://img.shields.io/badge/Tools-Postman-informational?style=flat&logo=postman&logoColor=white&color=FF6C37)](https://www.postman.com/)
 [![](https://img.shields.io/badge/Tools-Postgresql-informational?style=flat&logo=postgresql&logoColor=white&color=336791)](https://www.postgresql.org/)
 
@@ -32,3 +30,14 @@ I am currently accepting new projects. I am also open to relocating and working 
 <img align="center" src='https://github-readme-stats.vercel.app/api/top-langs/?username=ionknowmyname&hide=html&layout=compact'>
 <img align="center" src='https://github-readme-stats.vercel.app/api?username=ionknowmyname&hide=issues,contribs'>
 </p> 
+
+
+![Olanetsoft's github stats](https://github-readme-stats.vercel.app/api?username=olanetsoft&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=olanetsoft&layout=compact&theme=tokyonight)](https://github.com/Olanetsoft)
+
+![trophy](https://github-profile-trophy.vercel.app/?username=olanetsoft)
+
+
+Started counting on <b>05/07/2021</b>
+
+![Profile views](https://gpvc.arturio.dev/olanetsoft)  
