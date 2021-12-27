@@ -8,8 +8,8 @@ I am currently accepting new projects. I am also open to relocating and working 
 ### 📫 How to reach me
 <p align = "center"> 
   
-[![Linkedin Badge](https://img.shields.io/badge/-audrey-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/faithfulolaleru/)](https://www.linkedin.com/in/faithfulolaleru/)
-  [![Twitter Badge](https://img.shields.io/badge/-@audreyellaxo_-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/general_blacque)](https://twitter.com/general_blacque)
+[![Linkedin Badge](https://img.shields.io/badge/-Faithful-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/faithfulolaleru/)](https://www.linkedin.com/in/faithfulolaleru/)
+  [![Twitter Badge](https://img.shields.io/badge/-@general_blacque_-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/general_blacque)](https://twitter.com/general_blacque)
   [![Website Badge](https://img.shields.io/badge/-portfolio_-indigo?style=flat-square&labelColor=indigo&logo=chain&logoColor=white&link=https://faithful-olaleru.vercel.app)](https://faithful-olaleru.vercel.app)
   
  ### 🔧 Building Stack 
