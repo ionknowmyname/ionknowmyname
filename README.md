@@ -33,6 +33,10 @@ I am currently accepting new projects. I am also open to relocating and working 
 [![](https://img.shields.io/badge/Front-React-informational?style=flat&logo=React&logoColor=white&color=61DAFB)](https://reactjs.org/)
 [![](https://img.shields.io/badge/Front-Vue-informational?style=flat&logo=Vue&logoColor=white&color=41B883)](https://vuejs.org/)
   
+
+[![](https://img.shields.io/badge/Tools-Postman-informational?style=flat&logo=postman&logoColor=white&color=FF6C37)](https://www.postman.com/)
+  
+  
   
 <p align="left"> 
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
@@ -43,11 +47,7 @@ I am currently accepting new projects. I am also open to relocating and working 
 </p>
 
   
-  
-  
 
-
-[![](https://img.shields.io/badge/Tools-Postman-informational?style=flat&logo=postman&logoColor=white&color=FF6C37)](https://www.postman.com/)
 
 
 ### 📈 My stats
