@@ -48,3 +48,6 @@ I am currently accepting new projects. I am also open to relocating and working 
 </p> 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ionknowmyname&show_icons=true&locale=en" alt="ionknowmyname" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ionknowmyname&" alt="ionknowmyname" /></p>
+
