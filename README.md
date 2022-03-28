@@ -47,12 +47,4 @@ I am currently accepting new projects. I am also open to relocating and working 
 <img align="center" src='https://github-readme-stats.vercel.app/api?username=ionknowmyname&hide=issues,contribs'>
 </p> 
 
-
-
-<!-- ![Olanetsoft's github stats](https://github-readme-stats.vercel.app/api?username=ionknowmyname&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true) -->
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ionknowmyname&layout=compact&theme=tokyonight)](https://github.com/ionknowmyname) -->
-
-<!-- ![trophy](https://github-profile-trophy.vercel.app/?username=ionknowmyname)
- -->
-
-<!-- ![Profile views](https://gpvc.arturio.dev/ionknowmyname)   -->
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ionknowmyname&show_icons=true&locale=en" alt="ionknowmyname" /></p>
