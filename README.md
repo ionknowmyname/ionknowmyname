@@ -38,7 +38,7 @@ I am currently accepting new projects. I am also open to relocating and working 
   
   
   
-  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ionknowmyname" alt="ionknowmyname" /></a> </p>
+
   
   
   
@@ -53,10 +53,6 @@ I am currently accepting new projects. I am also open to relocating and working 
 
 
 
-[![Faithful's github activity graph](https://activity-graph.herokuapp.com/graph?username=ionknowmyname&theme=dracula)](https://github.com/ionknowmyname/github-readme-activity-graph)
-
-
-
 ### 📈 My stats
 
 <img align="center" src='https://github-readme-stats.vercel.app/api/top-langs/?username=ionknowmyname&hide=html&layout=compact'>
@@ -67,4 +63,12 @@ I am currently accepting new projects. I am also open to relocating and working 
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ionknowmyname&show_icons=true&locale=en" alt="ionknowmyname" /></p> -->
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ionknowmyname&" alt="ionknowmyname" /></p>
+
+
+
+
+<!-- [![Faithful's github activity graph](https://activity-graph.herokuapp.com/graph?username=ionknowmyname&theme=dracula)](https://github.com/ionknowmyname/github-readme-activity-graph) -->
+
+
+  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ionknowmyname" alt="ionknowmyname" /></a> </p>
 
