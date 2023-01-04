@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm FAITHFUL
 
 ###  About Me (He/Him)
-I'm a full stack web developer 👩‍💻️ from Lagos, Nigeria. I create web apps and utilities using the LAMP-stack and MERN-stack. I'm enthusiastic about taking on new challenges and always eager to try new coding techniques. Reach out to me if you have something new you'd like me to try.
+I'm a full stack Software Developer 👩‍💻️ from Lagos, Nigeria. I create web apps and utilities using the LAMP-stack, MERN-stack and Java. I'm enthusiastic about taking on new challenges and always eager to try new coding techniques. Reach out to me if you have something new you'd like me to try.
 
 I am currently accepting new projects. I am also open to relocating and working remotely.
 
@@ -20,11 +20,13 @@ I am currently accepting new projects. I am also open to relocating and working 
 [![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=F7DF1E)](https://www.javascript.com/)
 [![](https://img.shields.io/badge/Code-Php-informational?style=flat&logo=Php&logoColor=white&color=b0b3d6)](https://www.php.net/)
 [![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=white&color=FFD43B)](https://www.python.org/)
+[![](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)](https://go.dev/)
   
 
 [![](https://img.shields.io/badge/Code-Node-informational?style=flat&logo=Node&logoColor=white&color=68A063)](https://nodejs.org/en/)
 [![](https://img.shields.io/badge/Code-Laravel-informational?style=flat&logo=Laravel&logoColor=white&color=F05340)](https://laravel.com/)
 [![](https://img.shields.io/badge/Server-Apache-informational?style=flat&logo=apache&logoColor=white&color=A22160)](https://www.apache.org/)
+[![](https://img.shields.io/badge/DB-PostgreSql-informational?style=flat&logo=postgresql&logoColor=white&color=0064a5)](https://www.postgresql.org/)
 [![](https://img.shields.io/badge/DB-MySql-informational?style=flat&logo=mysql&logoColor=white&color=F29111)](https://www.mysql.com/)
 [![](https://img.shields.io/badge/DB-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=3FA037)](https://mongodb.com/)
   
@@ -50,7 +52,10 @@ I am currently accepting new projects. I am also open to relocating and working 
   <a href="https://www.npmjs.com/package/typescript" target="_blank" rel="noreferrer"> <img title="TypeScript" alt="typescript" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg"></a> 
   <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"> <img title="Node.js" alt="nodejs" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg"></a> 
  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="docker logo" width="50" height="50"/> </a> 
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50"/> </a>   
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50"/> </a>
+  <a href="https://www.java.com/en/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="java" width="50" height="50"/> </a> 
+  <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" alt="spring" width="50" height="50"/> </a> 
+  <a href="https://go.dev/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" alt="golang" width="50" height="50"/> </a> 
 </p>
 
 
