@@ -10,8 +10,8 @@ I am currently accepting new projects. I am also open to relocating and working 
   
 [![Linkedin Badge](https://img.shields.io/badge/-Faithful-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/faithfulolaleru/)](https://www.linkedin.com/in/faithfulolaleru/)
 [![Twitter Badge](https://img.shields.io/badge/-@general_blacque_-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/general_blacque)](https://twitter.com/general_blacque)
-[![Gmail Badge](https://img.shields.io/badge/-bujoriosif@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:faithfulolaleru09@gmail.com)](mailto:faithfulolaleru09@gmail.com)
-[![Website Badge](https://img.shields.io/badge/-portfolio_-indigo?style=flat-square&labelColor=indigo&logo=chain&logoColor=white&link=https://faithfulolaleru.com)](https://faithfulolaleru.com)
+[![Gmail Badge](https://img.shields.io/badge/-faithfulolaleru09@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:faithfulolaleru09@gmail.com)](mailto:faithfulolaleru09@gmail.com)
+[![Website Badge](https://img.shields.io/badge/-portfolio_-indigo?style=flat-square&labelColor=indigo&logo=appveyor&logoColor=white&link=https://faithfulolaleru.com)](https://faithfulolaleru.com)
   
  ### 🔧 Building Stack 
 
