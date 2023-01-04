@@ -9,8 +9,9 @@ I am currently accepting new projects. I am also open to relocating and working 
 <p align = "center"> 
   
 [![Linkedin Badge](https://img.shields.io/badge/-Faithful-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/faithfulolaleru/)](https://www.linkedin.com/in/faithfulolaleru/)
-  [![Twitter Badge](https://img.shields.io/badge/-@general_blacque_-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/general_blacque)](https://twitter.com/general_blacque)
-  [![Website Badge](https://img.shields.io/badge/-portfolio_-indigo?style=flat-square&labelColor=indigo&logo=chain&logoColor=white&link=https://faithfulolaleru.com)](https://faithfulolaleru.com)
+[![Twitter Badge](https://img.shields.io/badge/-@general_blacque_-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/general_blacque)](https://twitter.com/general_blacque)
+[![Gmail Badge](https://img.shields.io/badge/-bujoriosif@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:faithfulolaleru09@gmail.com)](mailto:faithfulolaleru09@gmail.com)
+[![Website Badge](https://img.shields.io/badge/-portfolio_-indigo?style=flat-square&labelColor=indigo&logo=chain&logoColor=white&link=https://faithfulolaleru.com)](https://faithfulolaleru.com)
   
  ### 🔧 Building Stack 
 
@@ -20,7 +21,7 @@ I am currently accepting new projects. I am also open to relocating and working 
 [![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=F7DF1E)](https://www.javascript.com/)
 [![](https://img.shields.io/badge/Code-Php-informational?style=flat&logo=Php&logoColor=white&color=b0b3d6)](https://www.php.net/)
 [![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=white&color=FFD43B)](https://www.python.org/)
-[![](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)](https://go.dev/)
+[![](https://img.shields.io/badge/Code-Go-informational?style=flat&logo=go&logoColor=white)](https://go.dev/)
   
 
 [![](https://img.shields.io/badge/Code-Node-informational?style=flat&logo=Node&logoColor=white&color=68A063)](https://nodejs.org/en/)
