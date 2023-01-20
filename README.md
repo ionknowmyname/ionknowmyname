@@ -84,5 +84,6 @@ I am currently accepting new projects. I am also open to relocating and working 
   
   
   ![](https://visitor-badge.laobi.icu/badge?page_id=ionknowmyname) 
+  <img src="https://komarev.com/ghpvc/?username=ionknowmyname&label=Profile%20views&color=0e75b6&style=flat" alt="ionknowmyname" />
 [![Github](https://img.shields.io/github/followers/ionknowmyname?label=Follow&style=social)](https://github.com/ionknowmyname)
 
